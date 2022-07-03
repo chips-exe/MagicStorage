@@ -11,3 +11,5 @@ The information in this wiki applies to the 1.4 version of Magic Storage only.
 * Item Sorting
 * Using the Environment Simulator
 * The Entire Public API
+
+Have any questions?  Want to report a bug?  Please do so in the official [Discord server](https://discord.gg/FemPG7eev4) for Magic Storage.
