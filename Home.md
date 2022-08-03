@@ -8,8 +8,8 @@ The information in this wiki applies to the 1.4 version of Magic Storage only.
 
 **API Documentation**
 * Manipulating a Storage System
-* Item Sorting via ItemCombining
-* GUI Sorting and Filtering via SortingOption and FilteringOption
+* ItemCombining
+* SortingOption and FilteringOption
 * Using the Environment Simulator
 * The Entire Public API
 
