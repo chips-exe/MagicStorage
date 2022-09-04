@@ -3,7 +3,7 @@ Welcome to the Magic Storage wiki!
 The information in this wiki applies to the 1.4 version of Magic Storage only.
 
 **General Pages**
-* How to Set Up a Storage System
+* [How to Set Up a Storage System](#how-to-set-up-a-storage-system)
 * Other Items
 
 **API Documentation**
