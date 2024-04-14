@@ -3,8 +3,8 @@ Welcome to the Magic Storage wiki!
 The information in this wiki applies to the 1.4 version of Magic Storage only.
 
 **General Pages**
-* [How to Set Up a Storage System](How-to-Set-Up-a-Storage-System)
-* [Combined Crafting Stations](Combined-Crafting-Stations)
+* [How to Set Up a Storage System](How-to-Set-Up-a-Storage-System.md)
+* [Combined Crafting Stations](Combined-Crafting-Stations.md)
 
 **API Documentation**
 * Manipulating a Storage System
