@@ -4,7 +4,7 @@ The information in this wiki applies to the 1.4 version of Magic Storage only.
 
 **General Pages**
 * [How to Set Up a Storage System](How-to-Set-Up-a-Storage-System)
-* Other Items
+* [Combined Crafting Stations](Combined-Crafting-Stations)
 
 **API Documentation**
 * Manipulating a Storage System
